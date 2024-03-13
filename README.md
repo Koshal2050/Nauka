@@ -1,3 +1,3 @@
 # Nauka
 
-Testowy tekst do cwiczenia komitów
+Testowy tekst do cwiczenia komitów.
